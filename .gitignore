@@ -5,7 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
-
+.idea/*
+*/checkpoint
+trainModel
+train
+validation
 # Distribution / packaging
 .Python
 build/
